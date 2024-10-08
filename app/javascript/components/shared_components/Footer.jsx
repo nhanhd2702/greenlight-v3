@@ -31,8 +31,8 @@ export default function Footer() {
   return (
     <footer id="footer" className="footer background-whitesmoke text-center">
       <Container id="footer-container" className="py-3">
-        <a href="https://dtp-education.com/" target="_blank" rel="noreferrer">DTP Education</a>
-        { isAdmin && <span className="text-muted"> {env?.VERSION_TAG} </span> }
+        <a href="https://dtp-education.com/" target="_blank" rel="noreferrer">DTP Education (Based-on BBB)</a>
+        {/*{ isAdmin && <span className="text-muted"> {env?.VERSION_TAG} </span> }*/}
         { links?.Terms
           && (
             <a className="ps-3" href={links?.Terms} target="_blank" rel="noreferrer">
@@ -45,12 +45,6 @@ export default function Footer() {
               { t('admin.site_settings.administration.privacy_policy') }
             </a>
           )}
-          {/* New line added for Base on BBB */}
-        <div className="pt-3">
-          <a href="https://dtp-education.com" target="_blank" rel="noreferrer">
-            Based-on BBB
-          </a>
-        </div>
       </Container>
     </footer>
   );
