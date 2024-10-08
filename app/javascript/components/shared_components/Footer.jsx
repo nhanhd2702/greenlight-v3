@@ -45,6 +45,12 @@ export default function Footer() {
               { t('admin.site_settings.administration.privacy_policy') }
             </a>
           )}
+          {/* New line added for Base on BBB */}
+        <div className="pt-3">
+          <a href="https://dtp-education.com" target="_blank" rel="noreferrer">
+            Based-on BBB
+          </a>
+        </div>
       </Container>
     </footer>
   );
