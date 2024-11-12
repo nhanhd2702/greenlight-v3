@@ -48,9 +48,9 @@
 en:
   opengraph:
     description: Tìm hiểu về Hệ Thống Hội Nghị Trực Tuyến của DTP Education Solution, giải pháp hội nghị trực tuyến đáng tin cậy, mang đến trải nghiệm hội họp và học tập tuyệt vời..
-  meeting:
-    moderator_message: "Để mời ai đó vào cuộc họp, hãy gửi cho họ liên kết này:"
-    access_code: "Mã Truy Cập: %{code}"
+   meeting:
+    moderator_message: "Mã phòng:"
+    access_code: "Access Code: %{code}"
   email:
     activation:
       account_activation: Kích Hoạt Tài Khoản
