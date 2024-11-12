@@ -1,0 +1,724 @@
+{
+  "start": "Băt đầu",
+  "search": "Tìm kiếm",
+  "home": "Trang chủ",
+  "previous": "Trước",
+  "back": "Quay lại",
+  "next": "Tiếp theo",
+  "view": "Xem",
+  "join": "Tham gia",
+  "edit": "Chỉnh sửa",
+  "save": "Lưu",
+  "save_changes": "Lưu thay đổi",
+  "update": "Cập nhật",
+  "report": "Báo cáo",
+  "share": "Chia sẻ",
+  "cancel": "HUỷ",
+  "reset":   "Đặt lại",
+  "close": "Đóng",
+  "delete": "Xoá",
+  "copy": "Sao chép",
+  "copy_viewer_code": "Sao chép mã người xem",
+  "copy_moderator_code": "Sao chép mã người điều hành",
+  "or": "Hoặc",
+  "online": "Trực tuyến",
+  "help_center": "Trung tâm trợ giúp",
+  "are_you_sure": "Bạn có chắc không?",
+  "return_home": "Trở về trang chủ",
+  "created_at": "Được tạo lúc",
+  "view_recordings": "Xem bản ghi hình",
+  "join_session": "Tham gia phiên",
+  "no_result_search_input": "Không tìm thấy kết quả nào cho \"{{ searchInput }}\"",
+  "action_permanent": "Hành động này không thể hoàn tác.",
+  "homepage": {
+    "welcome_bbb": "Chào mừng đến với hệ thống giảng dạy, hội nghị trực tuyến của DTP Education Solution.",
+    "bigbluebutton_description": "Hệ thống DTP Education Solution giải pháp quản lý lớp học, hội nghị trực tuyến hiện đại, hiệu quả và chất lượng..",
+    "greenlight_description": "Nền tảng tiên tiến giúp tối ưu thời gian học tập, thực hành bằng cách tương tác và nhận phản hồi theo thời gian thực",
+    "learn_more": "Tìm hiểu thêm về hệ thống hội nghị trực tuyến DTP Education Solution",
+    "explore_features": "Khám phá các tính năng của chúng tôi",
+    "meeting_title": "Khởi chạy cuộc họp",
+    "meeting_description": "Khởi tạo một lớp học ảo với video, âm thanh, chia sẻ màn hình, chat và tất cả các công cụ cần thiết cho lớp học, hội nghị trực tuyến.",
+    "recording_title": "Ghi hình lại cuộc họp",
+    "recording_description": "Ghi lại các cuộc họp và chia sẻ với người tham gia.",
+    "settings_title": "Quản lý phòng họp",
+    "settings_description": "Cấu hình phòng họp và các thiết lập điều khiển cuộc họp .",
+    "and_more_title": "Và nhiều hơn!",
+    "and_more_description": "Hệ thống hội nghị trực tuyến DTP Education Solution cung cấp các công cụ tích hợp cho việc tương tác theo thời gian thực.",
+    "enter_meeting_url": "Nhập URL cuộc họp",
+    "enter_meeting_url_instruction": "Vui lòng nhập URL cuộc họp vào trường bên dưới."
+  },
+  "authentication": {
+    "sign_in": "Đăng nhập",
+    "sign_up": "Đăng ký",
+    "sign_out": "Đăng xuất",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "confirm_password": "Xác nhận lại mật khẩu",
+    "enter_email": "Nhập địa chỉ email",
+    "enter_name": "Nhập tên",
+    "remember_me": "Ghi nhớ",
+    "forgot_password": "Quên mật khẩu?",
+    "dont_have_account": "Không có tài khoản?",
+    "create_account": "Tạo tài khoản",
+    "create_an_account": "Tạo một tài khoản",
+    "already_have_account": "Đã có tài khoản?"
+  },
+  "user": {
+    "user": "Người dùng",
+    "users": "Người dùng",
+    "name": "Tên",
+    "email_address": "Địa chỉ email",
+    "authenticator": "Xác thực",
+    "full_name": "Tên đầy đủ",
+    "no_user_found": "Không tìm thấy người dùng",
+    "type_three_characters": "Vui lòng gõ ba (3) ký tự trở lên để hiển thị các người dùng khác.",
+    "search_not_found": "Không tìm thấy người dùng",
+    "profile": {
+      "profile": "Hồ sơ",
+      "language": "Ngôn ngữ",
+      "role": "Vai trò",
+      "administrator": "Quản trị viên",
+      "guest": "Khách"
+    },
+    "account": {
+     "account_info": "Thông tin tài khoản",
+      "delete_account": "Xóa tài khoản",
+      "change_password": "Đổi mật khẩu",
+      "set_password": "Thiết lập mật khẩu mới",
+      "reset_password": "Đặt lại mật khẩu",
+      "update_account_info": "Cập nhật thông tin tài khoản",
+      "current_password": "Mật khẩu hiện tại",
+      "new_password": "Mật khẩu mới",
+      "confirm_password": "Xác nhận mật khẩu",
+      "permanently_delete_account": "Xóa tài khoản vĩnh viễn",
+      "delete_account_description": "Nếu bạn chọn xóa tài khoản, tài khoản sẽ KHÔNG thể khôi phục. \n Tất cả thông tin liên quan đến tài khoản của bạn, bao gồm cài đặt, phòng và bản ghi sẽ bị xóa.",
+      "delete_account_confirmation": "Vâng, tôi muốn xóa tài khoản của mình",
+      "are_you_sure_delete_account": "Bạn có chắc chắn muốn xóa tài khoản của mình không?"
+    },
+    "avatar": {
+      "upload_avatar": "Tải lên ảnh đại diện",
+      "delete_avatar": "Xóa ảnh đại diện",
+      "crop_avatar": "Cắt ảnh đại diện của bạn"
+    },
+    "pending": {
+      "title": "Đang chờ đăng ký",
+      "message": "Cảm ơn bạn đã đăng ký! Tài khoản của bạn đang chờ sự phê duyệt của quản trị viên."
+    }
+  },
+  "room": {
+    "room": "Phòng",
+    "rooms": "Phòng",
+    "room_name": "Tên phòng",
+    "add_new_room": "+ Phòng mới",
+    "create_room": "Tạo phòng",
+    "delete_room": "Xóa phòng",
+    "create_new_room": "Tạo phòng mới",
+    "enter_room_name": "Nhập tên phòng",
+    "shared_by": "được chia sẻ bởi",
+    "last_session": "Phiên trước: {{ localizedTime }}",
+    "no_last_session": "Chưa có phiên nào trước đó",
+    "search_not_found": "Không tìm thấy phòng",
+    "rooms_list_is_empty": "Bạn chưa có phòng nào!",
+    "rooms_list_empty_create_room": "Tạo phòng bằng cách nhấn nút bên dưới và nhập tên phòng.",
+    "meeting": {
+      "start_meeting": "Bắt đầu cuộc họp",
+      "join_meeting": "Tham gia cuộc họp",
+      "meeting_invitation": "Bạn được mời tham gia",
+      "meeting_not_started": "Cuộc họp chưa bắt đầu",
+      "join_meeting_automatically": "Tự động tham gia khi cuộc họp bắt đầu",
+      "recording_consent": "Tôi xác nhận rằng phiên này có thể được ghi lại. Điều này có thể bao gồm giọng nói và video của tôi nếu được bật."
+    },
+    "presentation": {
+      "presentation": "Thuyết trình",
+      "click_to_upload": "Nhấn để tải lên",
+      "drag_and_drop": " hoặc kéo và thả",
+      "upload_description": "Tải lên bất kỳ tài liệu hoặc tệp PDF nào (không lớn hơn {{size}}). Tùy thuộc vào kích thước tệp, có thể mất thêm thời gian để tải lên trước khi có thể sử dụng.",
+      "delete_presentation": "Xóa bản thuyết trình",
+      "are_you_sure_delete_presentation": "Bạn có chắc chắn muốn xóa bản thuyết trình này không?"
+    },
+    "shared_access": {
+      "access": "Truy cập",
+      "add_share_access": "+ Chia sẻ truy cập",
+      "share_room_access": "Chia sẻ truy cập phòng",
+      "add_some_users": "Đã đến lúc thêm người dùng!",
+      "add_some_users_description": "Để thêm người dùng mới, nhấp vào nút bên dưới và tìm hoặc chọn người dùng mà bạn muốn chia sẻ phòng này.",
+      "delete_shared_access": "Xóa quyền truy cập đã chia sẻ",
+      "are_you_sure_delete_shared_access": "Bạn có chắc chắn muốn xóa quyền truy cập đã chia sẻ này không?"
+    },
+    "settings": {
+      "settings": "Cài đặt",
+      "room_name": "Tên Phòng",
+      "user_settings": "Cài Đặt Người Dùng",
+      "allow_room_to_be_recorded": "Cho phép phòng được ghi lại",
+      "require_signed_in": "Yêu cầu người dùng đăng nhập trước khi tham gia",
+      "require_signed_in_message": "Bạn phải đăng nhập để tham gia phòng này.",
+      "require_mod_approval": "Yêu cầu sự chấp thuận của chủ phòng trước khi tham gia",
+      "allow_any_user_to_start": "Cho phép bất kỳ người dùng nào bắt đầu cuộc họp này",
+      "all_users_join_as_mods": "Tất cả người dùng tham gia với tư cách người điều hành",
+      "mute_users_on_join": "Tắt tiếng người dùng khi tham gia",
+      "generate": "Tạo",
+      "access_code": "Mã Truy Cập",
+      "mod_access_code": "Mã Truy Cập Người Điều Hành",
+      "mod_access_code_optional": "Mã Truy Cập Người Điều Hành (tuỳ chọn)",
+      "access_code_required": "Vui lòng nhập mã truy cập",
+      "wrong_access_code": "Sai Mã Truy Cập",
+      "generate_viewers_access_code": "Tạo mã truy cập cho người xem",
+      "generate_mods_access_code": "Tạo mã truy cập cho người điều hành",
+      "server_tag": "Chọn loại máy chủ cho phòng này",
+      "default_tag_name": "Mặc định",
+      "server_tag_desired": "Mong muốn",
+      "server_tag_required": "Bắt buộc",
+      "are_you_sure_delete_room": "Bạn có chắc chắn muốn xóa phòng này không?"
+    }
+  },
+  "recording": {
+    "recording": "Ghi âm",
+    "recordings": "Các bản ghi âm",
+    "processing": "Đang xử lý bản ghi âm...",
+    "name": "Tên",
+    "length": "Thời lượng",
+    "users": "Người dùng",
+    "visibility": "Chế độ hiển thị",
+    "formats": "Định dạng",
+    "published": "Đã công khai",
+    "unpublished": "Chưa công khai",
+    "protected": "Được bảo vệ",
+    "public": "Công khai",
+    "public_protected": "Công khai/Bảo vệ",
+    "length_in_minutes": "{{recording.length}} phút",
+    "processing_recording": "Đang xử lý bản ghi âm, quá trình này có thể mất vài phút...",
+    "copy_recording_urls": "Sao chép URL bản ghi âm",
+    "recordings_list_empty": "Bạn chưa có bản ghi âm nào!",
+    "public_recordings_list_empty": "Chưa có bản ghi âm công khai nào!",
+    "recordings_list_empty_description": "Các bản ghi âm sẽ xuất hiện ở đây sau khi bạn bắt đầu một cuộc họp và ghi âm.",
+    "public_recordings_list_empty_description": "Các bản ghi âm sẽ xuất hiện ở đây khi có sẵn.",
+    "delete_recording": "Xóa Bản Ghi Âm",
+    "are_you_sure_delete_recording": "Bạn có chắc chắn muốn xóa bản ghi âm này không?",
+    "search_not_found": "Không tìm thấy bản ghi âm nào"
+      },
+  "admin": {
+    "admin_panel": "Trình quản lý dành cho quản trị viên",
+    "manage_users": {
+      "manage_users": "Quản lý Người dùng",
+      "active": "Đang hoạt động",
+      "approve": "Chấp nhận",
+      "decline": "Từ chối",
+      "pending": "Đang chờ",
+      "banned": "Bị cấm",
+      "ban": "Cấm",
+      "unban": "Gỡ cấm",
+      "deleted": "Đã xóa",
+      "invited_tab": "Đã mời",
+      "invite_user": "Mời Người dùng",
+      "send_invitation": "Gửi lời mời",
+      "enter_user_email": "Nhập email của người dùng",
+      "new_user": "Người dùng mới",
+      "add_new_user": "Thêm Người dùng mới",
+      "create_new_user": "Tạo Người dùng mới",
+      "edit_user": "Chỉnh sửa Người dùng",
+      "delete_user": "Xóa Người dùng",
+      "users_edit_path": "Người dùng/Chỉnh sửa",
+      "create_account": "Tạo Tài khoản",
+      "create_room": "Tạo Phòng",
+      "create_new_room": "Tạo Phòng Mới",
+      "user_created_at": "Tạo vào: {{localizedTime}}",
+      "are_you_sure_delete_account": "Bạn có chắc chắn muốn xóa tài khoản của {{user.name}} không?",
+      "delete_account_warning": "Nếu bạn chọn xóa tài khoản này, nó sẽ KHÔNG thể khôi phục lại.",
+      "empty_active_users": "Chưa có người dùng nào hoạt động trên máy chủ này!",
+      "empty_active_users_subtext": "Khi trạng thái của người dùng được thay đổi thành hoạt động, họ sẽ xuất hiện ở đây.",
+      "empty_pending_users": "Chưa có người dùng nào đang chờ trên máy chủ này!",
+      "empty_pending_users_subtext": "Khi trạng thái của người dùng được thay đổi thành đang chờ, họ sẽ xuất hiện ở đây.",
+      "empty_banned_users": "Chưa có người dùng nào bị cấm trên máy chủ này!",
+      "empty_banned_users_subtext": "Khi trạng thái của người dùng được thay đổi thành bị cấm, họ sẽ xuất hiện ở đây.",
+      "empty_invited_users": "Chưa có người dùng nào được mời trên máy chủ này!",
+      "empty_invited_users_subtext": "Khi trạng thái của người dùng được thay đổi thành đã mời, họ sẽ xuất hiện ở đây.",
+      "invited": {
+        "time_sent": "Thời gian gửi",
+        "valid": "Có hiệu lực",
+        "revoke": "Thu hồi"
+      }
+    },
+    "server_rooms": {
+      "server_rooms": "Phòng",
+      "name": "Tên",
+      "owner": "Chủ sở hữu",
+      "room_id": "ID Phòng",
+      "participants": "Thành viên",
+      "status": "Trạng thái",
+      "running": "Đang chạy",
+      "not_running": "Không chạy",
+      "active": "Hoạt động",
+      "current_session": "Phiên hiện tại: {{lastSession}}",
+      "last_session": "Phiên trước: {{localizedTime}}",
+      "no_meeting_yet": "Chưa có cuộc họp nào.",
+      "delete_server_rooms": "Xóa Phòng",
+      "resync_recordings": "Đồng bộ lại bản ghi",
+      "empty_room_list": "Chưa có phòng nào!",
+      "empty_room_list_subtext": "Các phòng sẽ xuất hiện ở đây sau khi bạn tạo phòng đầu tiên."
+
+    },
+    "server_recordings": {
+      "server_recordings": "Các bản ghi hệ thống",
+      "latest_recordings": "Bản ghi mới nhất",
+      "no_recordings_found": "Không tìm thấy bản ghi nào."
+    },
+    "site_settings": {
+      "site_settings": "Các thiết lập trang",
+      "customize_greenlight": "Tuỳ chỉnh Front-End",
+      "appearance": {
+        "appearance": "Giao diện",
+        "brand_color": "Màu thương hiệu",
+        "regular": "Bình thường",
+        "lighten": "Làm sáng",
+        "brand_image": "Hình ảnh tổ chức",
+        "click_to_upload": "Nhấn để tải lên",
+        "drag_and_drop": " hoặc kéo và thả",
+        "upload_brand_image_description": "Tải lên bất kỳ tệp PNG, JPG, hoặc SVG nào (không lớn hơn {{size}}). Tùy thuộc vào kích thước tệp, quá trình tải lên có thể mất thêm thời gian trước khi có thể sử dụng.",
+        "remove_branding_image": "Xóa hình ảnh tổ chức"
+
+      },
+      "administration": {
+        "administration": "Quản trị",
+        "terms": "Điều khoản & Điều kiện",
+        "privacy": "Thông báo quyền riêng tư",
+        "privacy_policy": "Chính sách quyền riêng tư",
+        "change_term_links": "Thay đổi liên kết điều khoản xuất hiện ở cuối trang",
+        "change_privacy_link": "Thay đổi liên kết quyền riêng tư xuất hiện ở cuối trang",
+        "helpcenter": "Trung tâm trợ giúp",
+        "change_helpcenter_link": "Thay đổi liên kết trung tâm trợ giúp xuất hiện dưới menu hồ sơ",
+        "maintenance": "Biểu ngữ bảo trì",
+        "change_maintenance_text": "Thay đổi văn bản biểu ngữ bảo trì xuất hiện trong phần tiêu đề",
+        "change_url": "Thay đổi URL",
+        "set_text": "Đặt văn bản",
+        "clear_banner": "Xóa biểu ngữ",
+        "enter_link": "Nhập liên kết ở đây"
+
+      },
+      "settings": {
+        "settings": "Cài đặt",
+        "allow_users_to_share_rooms": "Cho phép người dùng chia sẻ phòng",
+        "allow_users_to_share_rooms_description": "Cài đặt này tắt sẽ xóa nút chia sẻ phòng trong menu tùy chọn, ngừng người dùng chia sẻ phòng",
+        "allow_users_to_preupload_presentation": "Cho phép người dùng tải trước bài thuyết trình",
+        "allow_users_to_preupload_presentation_description": "Người dùng có thể tải trước một bài thuyết trình để sử dụng làm bài thuyết trình mặc định cho phòng cụ thể đó",
+        "default_visibility": "Mặc định quyền riêng tư ghi âm",
+        "default_visibility_description": "Tất cả các bản ghi âm mới tạo sẽ có quyền riêng tư này mặc định",
+        "session_timeout": "Thời gian hết phiên",
+        "session_timeout_description": "Bạn có thể cấu hình thời gian hết phiên với cookie mặc định là 1 ngày hoặc cookie phiên kéo dài là 7 ngày",
+        "default_session_timeout": "Mặc định (1 ngày)",
+        "extended_session_timeout": "Kéo dài (7 ngày)"
+
+      },
+      "registration": {
+        "registration": "Đăng ký",
+        "role_mapping_by_email": "Phân công vai trò theo email",
+        "role_mapping_by_email_description": "Gán người dùng vào một vai trò sử dụng email của họ. Phải theo định dạng: role1=email1,role2=email2",
+        "enter_role_mapping_rule": "Nhập quy tắc phân công vai trò",
+        "resync_on_login": "Tái đồng bộ dữ liệu người dùng khi đăng nhập",
+        "resync_on_login_description": "Tái đồng bộ thông tin người dùng mỗi khi họ đăng nhập, đảm bảo rằng nhà cung cấp xác thực bên ngoài luôn khớp với thông tin",
+        "default_role": "Vai trò mặc định",
+        "default_role_description": "Vai trò mặc định được gán cho người dùng mới tạo",
+        "registration_method": "Phương thức đăng ký",
+        "registration_method_description": "Thay đổi phương thức người dùng đăng ky hệ thống",
+        "registration_methods" : {
+          "open": "Đăng ký mở",
+          "invite": "Tham gia qua lời mời",
+          "approval": "Cho phép/Từ chối"
+        },
+        "allowed_domains": "Các tên miền email được phép",
+        "allowed_domains_signup_description": "Cho phép các tên miền email cụ thể đăng ký. Định dạng phải là: @test.com,domain.com",
+        "enter_allowed_domains_rule": "Nhập các tên miền được phép"
+      }
+    },
+    "room_configuration": {
+      "room_configuration": "Cấu hình phòng họp",
+      "default": "Tuỳ chọn (default: enabled)",
+      "optional": "Tuỳ chọn (default: disabled)",
+      "enabled": "Bắt buộc bật",
+      "disabled": "Vô hiệu",
+      "configurations": {
+        "allow_room_to_be_recorded": "Cho phép phòng được ghi lại",
+        "allow_room_to_be_recorded_description": "Cho phép chủ phòng chỉ định liệu họ có muốn có tùy chọn ghi lại phòng hay không. Nếu bật, người quản trị vẫn phải nhấn nút 'Ghi lại' khi cuộc họp bắt đầu.",
+        "require_user_signed_in": "Yêu cầu người dùng đăng nhập trước khi tham gia",
+        "require_user_signed_in_description": "Chỉ cho phép những người dùng có tài khoản DTP tham gia cuộc họp. Nếu họ chưa đăng nhập, họ sẽ được chuyển hướng đến trang đăng nhập khi cố gắng tham gia phòng.",
+        "require_mod_approval": "Yêu cầu sự chấp thuận của người quản trị trước khi tham gia",
+        "require_mod_approval_description": "Hiển thị thông báo yêu cầu người quản trị phê duyệt khi người dùng cố gắng tham gia. Nếu người dùng được phê duyệt, họ sẽ có thể tham gia cuộc họp.",
+        "allow_any_user_to_start_meeting": "Cho phép bất kỳ người dùng nào bắt đầu cuộc họp",
+        "allow_any_user_to_start_meeting_description": "Cho phép bất kỳ người dùng nào bắt đầu cuộc họp vào bất kỳ lúc nào. Mặc định, chỉ chủ phòng mới có thể bắt đầu cuộc họp.",
+        "allow_users_to_join_as_mods": "Tất cả người dùng tham gia với quyền quản trị viên",
+        "allow_users_to_join_as_mods_description": "Cấp quyền quản trị viên cho tất cả người dùng khi họ tham gia cuộc họp",
+        "mute_users_on_join": "Tắt tiếng người dùng khi họ tham gia",
+        "mute_users_on_join_description": "Tự động tắt tiếng người dùng khi họ tham gia cuộc họp",
+        "viewer_access_code": "Mã truy cập cho người xem",
+        "viewer_access_code_description": "Cho phép chủ phòng có mã alphanumeric ngẫu nhiên có thể chia sẻ với người dùng. Mã này, nếu được tạo, sẽ yêu cầu người dùng nhập để tham gia cuộc họp phòng.",
+        "mod_access_code": "Mã truy cập cho người quản trị",
+        "mod_access_code_description": "Cho phép chủ phòng có mã alphanumeric ngẫu nhiên có thể chia sẻ với người dùng. Mã này, nếu được tạo, sẽ không bắt buộc và khi sử dụng trong bất kỳ cuộc họp phòng nào, người dùng sẽ tham gia với quyền quản trị viên."
+      }
+    },
+    "roles": {
+      "role": "Vai trò",
+      "roles": "Các vai trò",
+      "administrator": "Quản trị viên",
+      "guest": "Khách",
+      "manage_roles": "Quản lý các vai trò",
+      "delete_role": "Xóa vai trò",
+      "are_you_sure_delete_role": "Bạn chắc chắn muốn xóa vai trò này không?",
+      "enter_role_name": "Nhập tên vai trò",
+      "add_role": "+ Tạo vai trò",
+      "create_role": "Tạo vai trò",
+      "create_new_role": "Tạo vai trò mới",
+      "no_role_found": "Không có vai trò.",
+      "search_not_found": "Không tìm thấy vai trò",
+      "edit": {
+        "create_room": "Cho phép người dùng với vai trò này tạo phòng",
+        "record": "Cho phép người dùng với vai trò này ghi lại các cuộc họp",
+        "manage_users": "Cho phép người dùng với vai trò này quản lý người dùng",
+        "manage_rooms": "Cho phép người dùng với vai trò này quản lý các phòng",
+        "manage_recordings": "Cho phép người dùng với vai trò này quản lý các bản ghi của hệ thống",
+        "manage_site_settings": "Cho phép người dùng với vai trò này quản lý cài đặt của trang web",
+        "manage_roles": "Cho phép người dùng với vai trò này chỉnh sửa các vai trò khác",
+        "shared_list": "Bao gồm người dùng với vai trò này trong danh sách thả xuống để chia sẻ phòng",
+        "room_limit": "Giới hạn phòng",
+        "email_on_signup": "Nhận email khi có người dùng mới đăng ký",
+        "allowed_recording_visibility": "Các mức độ hiển thị bản ghi được phép"
+              }
+    }
+  },
+  "toast": {
+    "success": {
+      "user": {
+        "user_created": "Một người dùng mới đã được tạo.",
+        "user_updated": "Thông tin người dùng đã được cập nhật.",
+        "user_deleted": "Người dùng đã bị xóa.",
+        "avatar_updated": "Ảnh đại diện đã được cập nhật.",
+        "password_changed": "Cập nhật mật khẩu thành công. Vui lòng đăng nhập lại.",
+        "password_updated": "Mật khẩu đã được cập nhật.",
+        "account_activated": "Tài khoản của bạn đã được kích hoạt.",
+        "activation_email_sent": "Một email chứa hướng dẫn kích hoạt tài khoản của bạn đã được gửi.",
+        "reset_pwd_email_sent": "Một email chứa hướng dẫn đặt lại mật khẩu của bạn đã được gửi."
+      },
+      "session": {
+        "signed_out": "Bạn đã đăng xuất."
+      },
+      "room": {
+        "room_created": "Một phòng mới đã được tạo.",
+        "room_updated": "Phòng đã được cập nhật.",
+        "room_deleted": "Phòng đã bị xóa.",
+        "room_shared": "Phòng đã được chia sẻ.",
+        "room_unshared": "Phòng đã không còn được chia sẻ.",
+        "recordings_synced": "Các bản ghi của phòng đã được đồng bộ.",
+        "room_configuration_updated": "Cấu hình phòng đã được cập nhật.",
+        "room_setting_updated": "Cài đặt phòng đã được cập nhật.",
+        "presentation_updated": "Bài thuyết trình đã được cập nhật.",
+        "presentation_deleted": "Bài thuyết trình đã bị xóa.",
+        "joining_meeting": "Đang tham gia cuộc họp...",
+        "meeting_started": "Cuộc họp đã bắt đầu.",
+        "access_code_copied": "Mã truy cập đã được sao chép.",
+        "access_code_generated": "Mã truy cập mới đã được tạo.",
+        "access_code_deleted": "Mã truy cập đã bị xóa.",
+        "copied_meeting_url": "URL cuộc họp đã được sao chép. Liên kết này có thể dùng để tham gia cuộc họp.",
+        "copied_viewer_code": "Mã truy cập người xem đã được sao chép.",
+        "copied_moderator_code": "Mã truy cập người điều hành đã được sao chép."
+      },
+      "site_settings": {
+        "site_setting_updated": "Cài đặt trang web đã được cập nhật.",
+        "brand_color_updated": "Màu sắc thương hiệu đã được cập nhật.",
+        "brand_image_updated": "Hình ảnh thương hiệu đã được cập nhật.",
+        "brand_image_deleted": "Hình ảnh thương hiệu đã bị xóa.",
+        "privacy_policy_updated": "Thông báo bảo mật đã được cập nhật.",
+        "helpcenter_updated": "Liên kết trung tâm trợ giúp đã được cập nhật.",
+        "terms_of_service_updated": "Điều khoản dịch vụ đã được cập nhật.",
+        "maintenance_updated": "Biểu ngữ bảo trì đã được cập nhật.",
+        "allowed_domains_signup_updated": "Các tên miền email được phép đã được cập nhật."
+      },
+      "recording": {
+        "recording_visibility_updated": "Quyền truy cập ghi âm đã được cập nhật.",
+        "recording_name_updated": "Tên ghi âm đã được cập nhật.",
+        "recording_deleted": "Ghi âm đã bị xóa.",
+        "copied_urls": "Các URL ghi âm đã được sao chép."
+      },
+      "role": {
+        "role_created": "Một vai trò mới đã được tạo.",
+        "role_updated": "Vai trò đã được cập nhật.",
+        "role_deleted": "Vai trò đã bị xóa.",
+        "role_permission_updated": "Quyền của vai trò đã được cập nhật."
+      },
+      "invitations": {
+        "invitation_sent": "Lời mời đã được gửi.",
+        "invitation_revoked": "Lời mời đã được thu hồi"
+      }
+    },
+    "error": {
+      "problem_completing_action": "Không thể hoàn thành hành động. \n Vui lòng thử lại.",
+      "server_type_unavailable": "Loại máy chủ yêu cầu không có sẵn. Vui lòng chọn loại khác trong cài đặt phòng.",
+      "file_type_not_supported": "Loại tệp không được hỗ trợ.",
+      "file_size_too_large": "Kích thước tệp quá lớn.",
+      "file_upload_error": "Không thể tải lên tệp.",
+      "signin_required": "Bạn phải đăng nhập để truy cập trang này.",
+      "malware_detected": "Phát hiện phần mềm độc hại! Tệp bạn tải lên có thể chứa phần mềm độc hại. Vui lòng kiểm tra tệp và thử lại.",
+      "roles": {
+        "role_assigned": "Quyền này không thể xoá do đang gán cho người dùng."
+      },
+      "users": {
+        "signup_error": "Bạn không thể được xác thực. Vui lòng liên hệ với quản trị viên.",
+        "invalid_invite": "Mã lời mời của bạn không hợp lệ hoặc không chính xác. Vui lòng liên hệ với quản trị viên để nhận mã mới.",
+        "email_exists": "Tài khoản với email này đã tồn tại. Vui lòng thử lại với email khác.",
+        "old_password": "Mật khẩu bạn đã nhập không đúng.",
+        "pending": "Đăng ký của bạn đang chờ quản trị viên phê duyệt. Vui lòng thử lại sau.",
+        "banned": "Bạn không có quyền truy cập vào ứng dụng này. Vui lòng liên hệ với quản trị viên nếu bạn nghĩ đây là nhầm lẫn."
+      },
+      "rooms": {
+        "room_limit": "Số lượng phòng tạo đã đạt giới hạn."
+      },
+      "session": {
+        "invalid_credentials": "Tài khoản hoặc mật khẩu không đúng. Vui lòng kiểm tra lại"
+      }
+    }
+  },
+  "global_error_page": {
+    "title": "Lỗi",
+    "message": "Đã xảy ra lỗi. Vui lòng liên hệ quản trị viên."
+  },
+  "not_found_error_page": {
+    "title": "Không tim thấy trang",
+    "message": "Xin lỗi, trang bạn đang cố găng truy cập hiện không thể tìm thấy."
+  },
+  "account_activation_page": {
+    "title": "Kích hoạt Tài khoản",
+    "account_unverified": "Tài khoản của bạn chưa được xác minh.",
+    "message": "Để sử dụng hệ thống, vui lòng xác minh tài khoản của bạn bằng cách làm theo hướng dẫn trong email kích hoạt đã được gửi đến bạn.",
+    "resend_activation_link": "Nếu bạn chưa nhận được email kích hoạt hoặc gặp sự cố khi sử dụng, hãy nhấn vào nút dưới đây để yêu cầu gửi lại email kích hoạt.",
+    "resend_btn_lbl": "Gửi lại Xác minh"
+  },
+  "forms": {
+    "validations": {
+      "full_name": {
+        "required": "Vui lòng nhập đầy đủ họ tên",
+        "min": "Tên phải có ít nhất 2 ký tự",
+        "max": "Tên phải có tối đa 255 ký tự"
+      },
+      "email": {
+        "required": "Vui lòng nhập email",
+        "email": "Giá trị nhập không đúng định dạng email",
+        "min": "Email phải có ít nhất 6 ký tự",
+        "max": "Email phải có tối đa 255 ký tự"
+      },
+      "password": {
+        "required": "Vui lòng nhập mật khẩu",
+        "match": "Mật khẩu phải có ít nhất:",
+        "min": "- Tám ký tự",
+        "lower": "- Một chữ cái thường",
+        "upper": "- Một chữ cái viết hoa",
+        "digit": "- Một chữ số",
+        "symbol": "- Một ký tự đặc biệt",
+        "max": "Mật khẩu phải có tối đa 255 ký tự"
+      },
+      "password_confirmation": {
+        "required": "Vui lòng nhập xác nhận mật khẩu",
+        "match": "Mật khẩu không khớp"
+      },
+      "emails": {
+        "required": "Vui lòng nhập ít nhất một email hợp lệ",
+        "list": "Vui lòng cung cấp danh sách các email hợp lệ, ngăn cách bởi dấu phẩy (user@users.com,user1@users.com,user2@users.com)"
+      },
+      "role_name": {
+        "required": "Vui lòng nhập tên vai trò"
+      },
+      "role": {
+        "limit": {
+          "required": "Vui lòng nhập giới hạn số lượng phòng",
+          "min": "Giá trị tối thiểu cho phép là 0",
+          "max": "Giá trị tối đa cho phép là 100"
+        },
+        "type": {
+          "error": "Bạn phải nhập vào một số cụ thể"
+        }
+      },
+      "room": {
+        "name": {
+          "required": "Vui lòng nhập tên phòng.",
+          "min": "Tên phải có ít nhất 2 ký tự"
+        }
+      },
+      "room_join": {
+        "name": {
+          "required": "Vui lòng điền tên của bạn."
+        }
+      },
+      "url": {
+        "invalid": "URL không khả dụng"
+      },
+      "text_form": {
+        "value": {
+          "required": "Vui lòng nhập một vài tin nhắn"
+        }
+      }
+    },
+    "room": {
+      "fields": {
+        "name": {
+          "label": "Tên phòng",
+          "placeholder": "Nhập tên phòng..."
+        }
+      }
+    },
+    "room_join": {
+      "fields": {
+        "name": {
+            "label": "Tên",
+            "placeholder": "Nhập tên của bạn"
+        },
+        "access_code": {
+          "label": "Mã truy cập",
+          "placeholder": "Nhập mã truy cập"
+        },
+        "recording_consent": {
+          "label": "Tôi xác nhận rằng phiên này có thể được ghi lại. Điều này có thể bao gồm giọng nói và video của tôi nếu được bật."
+        }
+      }
+    },
+    "user": {
+      "signup": {
+        "fields": {
+          "full_name": {
+            "label": "Tên đầy đủ",
+            "placeholder": "Nhập tên đầy đủ của bạn"
+          },
+          "email": {
+            "label": "Email",
+            "placeholder": "Nhập địa chỉ email"
+          },
+          "password": {
+            "label": "Mật khẩu",
+            "placeholder": "Tạo mật khẩu"
+          },
+          "password_confirmation": {
+            "label": "Xác nhận lại mật khẩu",
+            "placeholder": "Xác nhận lại mật khẩu"
+          }
+        }
+      },
+      "signin": {
+        "fields": {
+          "email": {
+            "label": "Email",
+            "placeholder": "Email"
+          },
+          "password": {
+            "label": "Mật khẩu",
+            "placeholder": "Mật khẩu"
+          },
+          "remember_me": {
+            "label": "Ghi nhớ đăng nhập"
+          }
+        }
+      },
+      "change_password": {
+        "fields": {
+          "old_password": {
+            "label": "Mật khẩu hiện tại",
+            "placeholder": "Nhập mật khẩu của bạn"
+          },
+          "new_password": {
+            "label": "Mật khẩu mới",
+            "placeholder": "Nhập mật khẩu mới"
+          },
+          "password_confirmation": {
+            "label": "Xác nhận lại mật khẩu",
+            "placeholder": "Xác nhận lại mật khẩu mới"
+          }
+        },
+        "validations": {
+          "old_password": {
+            "required": "Vui lòng nhập vào mật khẩu hiện tại của bạn"
+          }
+        }
+      },
+      "forget_password": {
+        "fields": {
+          "email": {
+            "label": "Email",
+            "placeholder": "Nhập vào tài khoản email"
+          }
+        },
+        "validations": {
+          "email": {
+            "required": "Nhập vào tài khoản email"
+          }
+        }
+      },
+      "reset_password": {
+        "fields": {
+          "new_password": {
+            "label": "Mật khẩu mới",
+            "placeholder": "Nhập mật khẩu mới của bạn"
+          },
+          "password_confirmation": {
+            "label": "Xác nhận lại mật khẩu",
+            "placeholder": "Xác nhận lại mật khẩu"
+          }
+        }
+      },
+      "update_user": {
+        "fields": {
+          "full_name": {
+            "label": "Tên đầy đủ"
+          },
+          "email": {
+            "label": "Email"
+          },
+          "language": {
+            "label": "Ngôn ngữ"
+          },
+          "role": {
+            "label": "Vai trò"
+          }
+        }
+      }
+    },
+    "admin": {
+      "createUser": {
+        "fields": {
+          "full_name": {
+            "label": "Tên đầy đủ",
+            "placeholder": "Nhập tên đầy đủ của người dùng"
+          },
+          "email": {
+            "label": "Email",
+            "placeholder": "Nhập tài khoản email người dùng"
+          },
+          "password": {
+            "label": "Password",
+            "placeholder": "Nhập mật khẩu người dùng"
+          },
+          "password_confirmation": {
+            "label": "Xác nhận lại mật khẩu",
+            "placeholder": "Xác nhận lại mật khẩu"
+          }
+        }
+      },
+      "invite_user": {
+        "fields": {
+          "emails": {
+            "label": "Emails"
+          }
+        }
+      },
+      "site_settings": {
+        "fields": {
+          "value": {
+            "placeholder": "Nhập đường dẫn tại đây...",
+            "text_placeholder": "Nhập ký tự tại đây..."
+          }
+        }
+      },
+      "roles": {
+        "fields": {
+          "name": {
+            "label": "Tên vai trò",
+            "placeholder": "Nhập tên vai trò..."
+          }
+        }
+      }
+    }
+  }
+}
