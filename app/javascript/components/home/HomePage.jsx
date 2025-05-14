@@ -93,7 +93,7 @@ export default function HomePage() {
     <>
       <Row className="wide-white">
         <Col lg={10}>
-          <div id="homepage-hero">
+          {/*<div id="homepage-hero">
             <h1 className="my-4"> {t('homepage.welcome_bbb')} </h1>
             <p className="text-muted fs-5">
               {t('homepage.bigbluebutton_description')}
@@ -105,7 +105,7 @@ export default function HomePage() {
               {t('homepage.learn_more')}
               <ArrowRightIcon className="hi-s ms-2" />
             </a>
-          </div>
+          </div>*/}
         </Col>
       </Row>
       <Row>
