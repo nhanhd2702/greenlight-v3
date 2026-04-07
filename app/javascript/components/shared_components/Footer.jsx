@@ -31,7 +31,7 @@ export default function Footer() {
   return (
     <footer id="footer" className="footer background-whitesmoke text-center">
       <Container id="footer-container" className="py-3">
-        <a href="https://dtp-education.com/" target="_blank" rel="noreferrer">DTP Education (Based-on BBB)</a>
+        <a href="https://spt.vn/" target="_blank" rel="noreferrer">SPT Meeting (Based-on BBB)</a>
         {/*{ isAdmin && <span className="text-muted"> {env?.VERSION_TAG} </span> }*/}
         { links?.Terms
           && (

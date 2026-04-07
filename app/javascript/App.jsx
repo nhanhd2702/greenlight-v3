@@ -71,7 +71,7 @@ export default function App() {
 
   return (
     <>
-      <Title>DTP Education </Title>
+      <Title>SPT Meeting </Title>
       {(homePage || currentUser.signed_in) && <Header /> }
       <Container className={pageHeight}>
         <Outlet />

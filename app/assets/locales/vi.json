@@ -31,10 +31,10 @@
   "no_result_search_input": "Không tìm thấy kết quả nào cho \"{{ searchInput }}\"",
   "action_permanent": "Hành động này không thể hoàn tác.",
   "homepage": {
-    "welcome_bbb": "Chào mừng đến với hệ thống giảng dạy, hội nghị trực tuyến của DTP Education Solution.",
-    "bigbluebutton_description": "Hệ thống DTP Education Solution giải pháp quản lý lớp học, hội nghị trực tuyến hiện đại, hiệu quả và chất lượng..",
-    "greenlight_description": "Nền tảng tiên tiến giúp tối ưu thời gian học tập, thực hành bằng cách tương tác và nhận phản hồi theo thời gian thực",
-    "learn_more": "Tìm hiểu thêm về hệ thống hội nghị trực tuyến DTP Education Solution",
+    "welcome_bbb": "Chào mừng đến với hệ thống giảng dạy, hội nghị trực tuyến của SPT MEETING.",
+    "bigbluebutton_description": "Hệ thống SPT MEETING - giải pháp hội nghị trực tuyến hiện đại, hiệu quả và chất lượng..",
+    "greenlight_description": "Nền tảng hội họp tiên tiến",
+    "learn_more": "Tìm hiểu thêm về hệ thống hội nghị trực tuyến SPT MEETING",
     "explore_features": "Khám phá các tính năng của chúng tôi",
     "meeting_title": "Khởi chạy cuộc họp",
     "meeting_description": "Khởi tạo một lớp học ảo với video, âm thanh, chia sẻ màn hình, chat và tất cả các công cụ cần thiết cho lớp học, hội nghị trực tuyến.",
@@ -43,7 +43,7 @@
     "settings_title": "Quản lý phòng họp",
     "settings_description": "Cấu hình phòng họp và các thiết lập điều khiển cuộc họp .",
     "and_more_title": "Và nhiều hơn!",
-    "and_more_description": "Hệ thống hội nghị trực tuyến DTP Education Solution cung cấp các công cụ tích hợp cho việc tương tác theo thời gian thực.",
+    "and_more_description": "Hệ thống hội nghị trực tuyến SPT MEETING cung cấp các công cụ tích hợp cho việc tương tác theo thời gian thực.",
     "enter_meeting_url": "Nhập URL cuộc họp",
     "enter_meeting_url_instruction": "Vui lòng nhập URL cuộc họp vào trường bên dưới."
   },
